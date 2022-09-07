@@ -1,2 +1,2 @@
 # Lab1Repo
-This is Fatimah Syed's Lab 1 Repo.
+Fatimah Syed- ITMD361 Lab 1
